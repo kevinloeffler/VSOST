@@ -1,5 +1,5 @@
 # VSOST
-The website for the student cooperation at East Switzerland University of Applied Science
+The [website](https://www.vsost-rj.ch) for the student cooperation at East Switzerland University of Applied Science
 
 ### How to Use
 This repository is intended for submitting and resolving issues. If you witness behavior that you think is wrong please report it in the "Issues" tab.
